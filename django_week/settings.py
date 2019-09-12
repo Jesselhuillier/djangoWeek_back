@@ -71,7 +71,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'django_week.wsgi.application'
+WSGI_APPLICATION = 'Models.wsgi.application'
 
 
 # Database
